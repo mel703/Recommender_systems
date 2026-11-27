@@ -1,0 +1,4 @@
+__pycache__/
+.idea/
+src/_notebook_tmp.py
+figures/example_*.png
